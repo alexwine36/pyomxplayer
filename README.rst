@@ -8,6 +8,8 @@ module does not rely on any external scripts and FIFOs, but uses the
 `pexpect module <http://pypi.python.org/pypi/pexpect/2.4>`_ for communication
 with the OMXPlayer process.
 
+    pip install pexpect
+
 CPU overhead is rather low (~3% for the Python process on my development RPi)
 and the object-oriented design makes it easy to re-use in other projects.
 
