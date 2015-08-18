@@ -17,7 +17,7 @@ Installation:
 -------------
 ::
 
-    git clone https://github.com/jbaiter/pyomxplayer.git
+    git clone https://github.com/alexwine36/pyomxplayer.git
     python pyomxplayer/setup.py install
 
 Example:
